@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "name": "ti-24",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write \"**/*.html\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
