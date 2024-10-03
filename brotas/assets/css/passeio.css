@@ -1,0 +1,41 @@
+.passeio-section {
+    flex-direction: column;
+}
+
+.passeio-texts {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 1rem;
+}
+
+.passeio-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.passeio-card {
+    display: inline-block;
+    flex-direction: column;
+    margin: 3rem 1rem;
+    transition: 0.3s ease;
+}
+
+.passeio-card:hover {
+    filter: grayscale(100%) 
+}
+
+.passeio-card img {
+    width: 314px;
+    height: 368px;
+    padding: 0.25rem;
+    border:  1px solid #000;
+}
+
+.passeio-card figcaption {
+    background-color: #c95e10;
+    color: #fff;
+    text-align: center;
+    padding: 0.35rem;
+}

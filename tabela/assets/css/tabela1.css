@@ -24,6 +24,7 @@
 .table-container__header{
     width: 100%;
     border-collapse: collapse;
+    table-layout: fixed;
 }
 
 .table-container__body{
@@ -31,21 +32,21 @@
     border-collapse: separate; 
     border-spacing: 0 10px; 
     margin-top: -10px;
+    table-layout: fixed;
 }
 
 .table-head td{
     background-color: #9dac9e;
     padding: 2rem;
-    
+    color: #FFF;
+    width: 10%;
+    text-align: center;
 }
 
-.table-head td:nth-child(1) {
+/* .table-head td:nth-child(1) {
     padding-left: 1rem;
-}
+} */
 
-.table-head td:nth-child(2) {
-    padding-left: 0rem;
-}
 
 
 .table-body {
@@ -56,11 +57,17 @@
 
 .table-body td {
     padding: 0.5rem;
+    width: 10px;
 }
 
-.table-body td:nth-child(1) {
-    padding: 1.5rem; 
+.table-body td:nth-child(0) .table-head td:nth-child(0) {
+    padding: 0.5rem; 
 }
+
+.table-body td:nth-child(3) .table-head td:nth-child(3) {
+    padding-right: 2rem;
+}
+
 
 .table-body td:nth-child(3) {
     text-align: left;  
