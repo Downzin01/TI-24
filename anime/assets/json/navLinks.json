@@ -1,0 +1,24 @@
+{
+    "links": [
+        {
+            "text": "Home",
+            "href": "#home-section"
+        },
+        {
+            "text": "Sinopse",
+            "href": "#sinopse"
+        },
+        {
+            "text": "Episódios",
+            "href": "#episodios"
+        },
+        {
+            "text": "Personagens",
+            "href": "#personagens"
+        },
+        {
+            "text": "Galeria",
+            "href": "#galeria"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+.personagens_container {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    background-color: #bb5d83;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.personagens_content {
+    display: flex;
+    gap: 2rem;
+    width: 100%;
+}
+
+.personagem_info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #f2b4d3;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.personagem_imagem {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.personagem_info h3 {
+    font-size: 1.5rem;
+    color: #ff69b4;
+    margin: 1rem 0;
+}
+
+.personagem_info p {
+    font-size: 1rem;
+    color: #333;
+}
+
+.personagens_lista {
+    flex: 0.4;
+    max-height: 400px;
+    overflow-y: auto;
+    background-color: #c16489;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.personagens_lista ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.personagem_item {
+    padding: 1rem;
+    margin: 0.5rem 0;
+    background-color: #f2b4d3;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: white;
+}
+
+.personagem_item:hover {
+    background-color: #ffc0cb;
+}
+
+.personagem_item:active {
+    background-color: #ff69b4;
+    color: white;
+}

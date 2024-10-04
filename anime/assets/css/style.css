@@ -1,35 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('./home.css');
+@import url('./sinopse.css');
+@import url('./episodios.css');
+@import url('./personagens.css');
+
+:root {
+    --scrollbar-bg: #FFE1FB;
+    --scrollbar-thumb: rgba(255, 105, 180, 0.7);
+    --scrollbar-thumb-hover: rgba(255, 105, 180, 1);
+    --body-bg: #FFE1FB;
+    --body-color: #2E2E2E;
+}
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--scrollbar-bg);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--scrollbar-thumb-hover);
 }
 
 body {
-    background: #2c2c2c;
-    /* background: linear-gradient(to right, #0a5204, #0c683d); */
-    color: #fff;
-    margin: 0 5rem;
+    background-color: var(--body-bg);
+    color: var(--body-color);
 }
 
-.inicio_container {
-    text-align: center;
+h1 {
+    font-size: 4rem;
 }
 
-.inicio_titulo {
-    font-size: 32px;
-    margin-top: 20px;
-   
+h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
 }
 
-.inicio_titulo-sinopse {
-    font-size: 10vmin;
-    background-color: tomato;
-
-}
-
-.inicio_descricao-sinopse {
-    font-size: 18px;
-}

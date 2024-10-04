@@ -1,0 +1,70 @@
+.sinopse {
+    padding: 4rem 2rem;
+    background-color: var(--light-background); /* Cor de fundo da sessão */
+    color: var(--dark-text); /* Cor do texto */
+    text-align: center;
+}
+
+.sinopse-content {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+
+.sinopse-paragraph {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3rem;
+    position: relative;
+}
+
+.sinopse-paragraph p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    flex: 1;
+    margin: 0 1.5rem;
+}
+
+.sinopse-image {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.sinopse-image.left {
+    order: -1; /* Imagem à esquerda */
+}
+
+.sinopse-image.right {
+    order: 1; /* Imagem à direita */
+}
+
+.sinopse-content a {
+    color: var(--primary-color); /* Cor dos links */
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.sinopse-content a:hover {
+    color: var(--secondary-color); /* Muda a cor ao passar o mouse */
+}
+
+/* Estilo responsivo */
+@media (max-width: 768px) {
+    .sinopse-paragraph {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .sinopse-image {
+        margin-bottom: 1rem;
+    }
+
+    .sinopse-image.left,
+    .sinopse-image.right {
+        order: 0;
+    }
+}

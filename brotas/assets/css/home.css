@@ -4,7 +4,8 @@
 
 #home {
     height: 613px;
-    background: linear-gradient(rgba(17, 17, 15, 0.404) , rgba(34, 30, 4, 0.685)), url(../img/banner.png);
+    background: linear-gradient(rgba(17, 17, 15, 0.404), rgba(34, 30, 4, 0.685)),
+        url(../img/banner.png);
     background-size: cover;
 }
 
@@ -12,7 +13,7 @@
     list-style: none;
 }
 
-.home-menu ul li{
+.home-menu ul li {
     display: inline-block;
 }
 
@@ -22,7 +23,7 @@
     text-transform: uppercase;
     padding: 5px 20px;
     border: 1px solid transparent;
-    transition: 0.06s ease; 
+    transition: 0.06s ease;
 }
 
 .home-menu ul li a:hover {
@@ -30,7 +31,7 @@
     color: #000000;
 }
 
-.home-menu ul li .link-ativo{
+.home-menu ul li .link-ativo {
     background: #fff;
     color: #000;
 }
@@ -68,4 +69,3 @@
     background: #fff;
     color: #000;
 }
-

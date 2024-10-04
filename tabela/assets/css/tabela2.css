@@ -4,10 +4,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
-th, td {
+th,
+td {
     border: 1px solid rgba(0, 0, 0, 0.5);
     padding: 8px 10px;
 }
@@ -38,15 +39,15 @@ th, td {
     border-collapse: collapse;
 }
 
-.table-head td{
+.table-head td {
     padding: 1rem 0.5rem;
 }
 
-.table-body td{
+.table-body td {
     padding: 2rem 0;
 }
 
-.table-body img{
+.table-body img {
     width: 80px;
     height: 80px;
     object-fit: cover;
@@ -61,5 +62,4 @@ th, td {
 .table-body span {
     font-size: 0.75rem;
     color: #d89988;
-} 
-
+}

@@ -1,49 +1,198 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>Document</title>
-</head>
-<body>
-    <section class="inicio_container">
-        <h1 class="inicio_titulo">Infinity Train</h1>
-        <h2 class="inicio_titulo-sinopse">Sinopse</h2>
-        <p class="inicio_descricao-sinopse"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab voluptatibus esse beatae exercitationem voluptatem adipisci maiores blanditiis unde dolores, neque, ratione aliquam, explicabo iste? Reprehenderit commodi beatae illum esse repellendus?</p>
-    </section>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./assets/css/style.css" />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        />
+        <title>Sailor Moon</title>
+    </head>
+    <body>
+        <header>
+            <section class="home-section" id="home-section">
+                <div class="home-nav">
+                    <img
+                        class="home-logo"
+                        src="./assets/img/iconSailorMoon.jpg"
+                        alt="Imagem da logo"
+                    />
 
-    <section class="personagens_container">
-        <h2 class="personagens_titulo">Personagens</h2>
-        ol.personagens_lista>li.personagen
-    </section>
+                    <nav class="home-menu" id="nav-links">
+                        <ul></ul>
+                    </nav>
+                </div>
 
-    <section>
-        <h2></h2>
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-    </section>
+                <div class="parabola">
+                    <svg viewBox="0 0 1440 300" preserveAspectRatio="none">
+                        <path
+                            d="M0,150 Q720,300 1440,150 L1440,300 L0,300 Z"
+                            
+                        />
+                    </svg>
+                </div>
+            </section>
+        </header>
+        <main>
+            <section id="sinopse" class="sinopse">
+                <div class="sinopse-content">
+                    <h1>Sailor Moon</h1>
+                    <h2>Sinopse</h2>
 
-    <section>
-        <h2></h2>
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-        <img src="" alt="">
-    </section>
-</body>
+                    <div class="sinopse-paragraph">
+                        <img
+                            src="./assets/img/gifSailorMoon1.gif"
+                            alt="Imagem 1"
+                            class="sinopse-image left"
+                        />
+                        <p>
+                            "Sailor Moon" é uma série de anime e mangá que segue a história de Usagi
+                            Tsukino, uma adolescente desajeitada e sonhadora que descobre ser a
+                            reencarnação da princesa da lua, Serena. Após encontrar um gato falante
+                            chamado Luna, Usagi é recrutada para se tornar a heroína Sailor Moon, a
+                            guerreira da justiça, cuja missão é proteger a Terra e o Sistema Solar
+                            contra forças do mal.
+                        </p>
+                    </div>
+
+                    <div class="sinopse-paragraph">
+                        <img
+                            src="./assets/img/gifSailorMoon2.gif"
+                            alt="Imagem 2"
+                            class="sinopse-image right"
+                        />
+                        <p>
+                            À medida que a história avança, Usagi se une a outras guerreiras,
+                            conhecidas como Sailor Senshi, cada uma com seus próprios poderes e
+                            identidades, como Sailor Mercury, Sailor Mars, Sailor Jupiter e Sailor
+                            Venus. Juntas, elas enfrentam diversos inimigos, incluindo a enigmática
+                            Rainha Beryl e os vilões que buscam roubar a energia da Terra.
+                        </p>
+                    </div>
+
+                    <div class="sinopse-paragraph">
+                        <img
+                            src="./assets/img/gifSailorMoon4.gif"
+                            alt="Imagem 3"
+                            class="sinopse-image left"
+                        />
+                        <p>
+                            Com temas de amizade, amor e autodescoberta, "Sailor Moon" combina
+                            aventura e romance, enquanto Usagi e suas amigas aprendem a lutar não
+                            apenas contra inimigos externos, mas também com seus próprios desafios
+                            pessoais. A série é um marco no gênero shoujo, influenciando gerações de
+                            fãs e promovendo a ideia de empoderamento feminino através de heroínas
+                            fortes e inspiradoras.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="episodios" class="episodios">
+                <h2 class="sinopse-titulo ">Episódios</h2>
+                <div class="episodios_container">
+                    <div class="episodios_content">
+                        <!-- Área de Informações e Imagem do Episódio -->
+                        <div class="episodio_info" id="episodio-info">
+                            <img
+                                id="episodio-img"
+                                src="./assets/img/backgroundSailorMoon.jpg"
+                                alt="Imagem do Episódio"
+                                class="episodio_imagem"
+                            />
+                            <h3 id="episodio-titulo">A Moon Star is Born</h3>
+                            <p id="episodio-descricao">
+                                O episódio que introduz Usagi Tsukino e sua transformação em Sailor Moon.
+                            </p>
+                        </div>
+        
+                        <!-- Lista de Episódios Scrollável -->
+                        <div class="episodios_lista">
+                            <ol id="episodios-lista">
+                                <li class="episodio_item" data-episodio="1">A Moon Star is Born</li>
+                                <li class="episodio_item" data-episodio="2">Maleness is Scary</li>
+                                <li class="episodio_item" data-episodio="3">The Return of Sailor Moon</li>
+                                <li class="episodio_item" data-episodio="4">The Power of Friendship</li>
+                                <li class="episodio_item" data-episodio="5">The Dark Kingdom’s Trap</li>
+                                <li class="episodio_item" data-episodio="6">Sailor Moon R: The Movie</li>
+                                <li class="episodio_item" data-episodio="7">The Last Resort</li>
+                                <li class="episodio_item" data-episodio="8">Sailor Moon S: The Movie</li>
+                                <li class="episodio_item" data-episodio="9">A New Beginning</li>
+                                <li class="episodio_item" data-episodio="10">The Final Battle</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- <section class="inicio_container">
+            <h1 class="inicio_titulo">Sailor Moon</h1>
+            <h2 class="inicio_titulo-sinopse">Sinopse</h2>
+            <p class="inicio_descricao-sinopse">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab voluptatibus esse beatae
+                exercitationem voluptatem adipisci maiores blanditiis unde dolores, neque, ratione
+                aliquam, explicabo iste? Reprehenderit commodi beatae illum esse repellendus?
+            </p>
+        </section> -->
+
+
+
+        <section class="personagens_container" id="personagens">
+            <div class="personagens_content">
+                <!-- Área de Informações e Imagem do Personagem -->
+                <div class="personagem_info" id="personagem-info">
+                    <img
+                        id="personagem-img"
+                        src="./assets/img/iconSailorMoon.jpg"
+                        alt="Imagem do Personagem"
+                        class="personagem_imagem"
+                    />
+                    <h3 id="personagem-titulo">Selecione um Personagem</h3>
+                    <p id="personagem-descricao">
+                        Clique em um personagem para ver mais informações.
+                    </p>
+                </div>
+
+                <!-- Lista de Personagens Scrollável -->
+                <div class="personagens_lista">
+                    <ol id="personagens-lista">
+                        <li class="personagem_item" data-personagem="1">Usagi Tsukino</li>
+                        <li class="personagem_item" data-personagem="2">Ami Mizuno</li>
+                        <li class="personagem_item" data-personagem="3">Rei Hino</li>
+                        <li class="personagem_item" data-personagem="4">Makoto Kino</li>
+                        <li class="personagem_item" data-personagem="5">Minako Aino</li>
+                        <li class="personagem_item" data-personagem="6">Setsuna Meioh</li>
+                        <li class="personagem_item" data-personagem="7">Hotaru Tomoe</li>
+                        <li class="personagem_item" data-personagem="8">Michiru Kaioh</li>
+                        <li class="personagem_item" data-personagem="9">Haruka Tenou</li>
+                        <li class="personagem_item" data-personagem="10">Chibiusa Tsukino</li>
+                        <li class="personagem_item" data-personagem="11">Queen Serenity</li>
+                        <li class="personagem_item" data-personagem="12">King Endymion</li>
+                        <li class="personagem_item" data-personagem="13">Dark Moon Circus</li>
+                        <li class="personagem_item" data-personagem="14">Shingo Tsukino</li>
+                        <li class="personagem_item" data-personagem="15">Ikuko Tsukino</li>
+                    </ol>
+                </div>
+            </div>
+        </section>
+
+
+        <section>
+            <h2></h2>
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+            <img src="" alt="" />
+        </section>
+        <script type="module" src="./assets/js/script.js"></script>
+    </body>
 </html>

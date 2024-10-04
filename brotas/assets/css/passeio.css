@@ -23,14 +23,14 @@
 }
 
 .passeio-card:hover {
-    filter: grayscale(100%) 
+    filter: grayscale(100%);
 }
 
 .passeio-card img {
     width: 314px;
     height: 368px;
     padding: 0.25rem;
-    border:  1px solid #000;
+    border: 1px solid #000;
 }
 
 .passeio-card figcaption {

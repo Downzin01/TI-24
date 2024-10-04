@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .tabela-container {
@@ -25,7 +25,8 @@
     background-color: aqua;
 }
 
-th, td {
+th,
+td {
     border: 1px solid;
     padding: 8px 10px;
 }
@@ -34,7 +35,8 @@ th, td {
     background-color: rgb(193, 247, 247);
 }
 
-td, tr {
+td,
+tr {
     text-align: center;
 }
 

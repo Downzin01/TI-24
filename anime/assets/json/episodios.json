@@ -1,0 +1,62 @@
+[
+    {
+        "numero": 1,
+        "titulo": "A Moon Star is Born",
+        "descricao": "O episódio que introduz Usagi Tsukino e sua transformação em Sailor Moon.",
+        "imagem": "./assets/img/episodios/001.svg"
+    },
+    {
+        "numero": 2,
+        "titulo": "Maleness is Scary",
+        "descricao": "Um episódio divertido que destaca a amizade e a coragem de Usagi e suas amigas.",
+        "imagem": "./assets/img/episodios/002.svg"
+    },
+    {
+        "numero": 3,
+        "titulo": "The Return of Sailor Moon",
+        "descricao": "Sailor Moon se une a outras guerreiras para combater o mal.",
+        "imagem": "./assets/img/episodios/003.svg"
+    },
+    {
+        "numero": 4,
+        "titulo": "The Power of Friendship",
+        "descricao": "Um episódio que celebra a amizade entre as Sailor Senshi.",
+        "imagem": "./assets/img/episodios/004.svg"
+    },
+    {
+        "numero": 5,
+        "titulo": "The Dark Kingdom’s Trap",
+        "descricao": "As guerreiras enfrentam as armadilhas do Reino das Trevas.",
+        "imagem": "./assets/img/episodios/005.svg"
+    },
+    {
+        "numero": 6,
+        "titulo": "Sailor Moon R: The Movie",
+        "descricao": "A emocionante aventura no filme de Sailor Moon R.",
+        "imagem": "./assets/img/episodios/006.svg"
+    },
+    {
+        "numero": 7,
+        "titulo": "The Last Resort",
+        "descricao": "Um resort se torna o cenário de uma nova batalha.",
+        "imagem": "./assets/img/episodios/007.svg"
+    },
+    {
+        "numero": 8,
+        "titulo": "Sailor Moon S: The Movie",
+        "descricao": "A ação e emoção do filme de Sailor Moon S.",
+        "imagem": "./assets/img/episodios/008.svg"
+    },
+    {
+        "numero": 9,
+        "titulo": "A New Beginning",
+        "descricao": "Um novo começo para as Sailor Senshi e seus desafios.",
+        "imagem": "./assets/img/episodios/009.svg"
+    },
+    {
+        "numero": 10,
+        "titulo": "The Final Battle",
+        "descricao": "A batalha final contra as forças do mal.",
+        "imagem": "./assets/img/episodios/010.svg"
+    }
+]

@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .section-table {
@@ -21,24 +21,24 @@
     width: 80%;
 }
 
-.table-container__header{
+.table-container__header {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
 }
 
-.table-container__body{
+.table-container__body {
     width: 100%;
-    border-collapse: separate; 
-    border-spacing: 0 10px; 
+    border-collapse: separate;
+    border-spacing: 0 10px;
     margin-top: -10px;
     table-layout: fixed;
 }
 
-.table-head td{
+.table-head td {
     background-color: #9dac9e;
     padding: 2rem;
-    color: #FFF;
+    color: #fff;
     width: 10%;
     text-align: center;
 }
@@ -47,12 +47,9 @@
     padding-left: 1rem;
 } */
 
-
-
 .table-body {
     text-align: center;
     background-color: #fff;
-
 }
 
 .table-body td {
@@ -61,23 +58,22 @@
 }
 
 .table-body td:nth-child(0) .table-head td:nth-child(0) {
-    padding: 0.5rem; 
+    padding: 0.5rem;
 }
 
 .table-body td:nth-child(3) .table-head td:nth-child(3) {
     padding-right: 2rem;
 }
 
-
 .table-body td:nth-child(3) {
-    text-align: left;  
+    text-align: left;
 }
 
 .table-body td:nth-child(3) {
-    text-align: left;  
+    text-align: left;
 }
 
-.table-body__checkbox input:checked ~ .checkmark{
+.table-body__checkbox input:checked ~ .checkmark {
     background-color: rgba(255, 0, 0, 0.486);
 }
 
@@ -85,7 +81,7 @@
     height: 5rem;
 }
 
-.table-body__texts h1{
+.table-body__texts h1 {
     font-size: 1rem;
 }
 
@@ -104,7 +100,7 @@
     font-weight: 600;
 }
 
-.table-body__number input{
+.table-body__number input {
     width: 40%;
     padding: 10px;
     border: 2px solid #cecece;
