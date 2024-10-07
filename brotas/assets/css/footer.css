@@ -1,0 +1,21 @@
+footer {
+    background-color: #a85331;
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 0;
+}
+
+.footer-container img {
+    width: 75px;
+}
+
+.footer-container span {
+    font-size: 2rem;
+    color: #fff;
+    font-weight: 600;
+}

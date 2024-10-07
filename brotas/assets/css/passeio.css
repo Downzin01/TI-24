@@ -1,12 +1,14 @@
 .passeio-section {
     flex-direction: column;
+    background-color: #DAE4E9;
 }
 
 .passeio-texts {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 2rem 1rem;
+    padding-top: 10px;
+    margin: 0rem 1rem;
 }
 
 .passeio-container {

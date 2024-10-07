@@ -1,0 +1,40 @@
+th {
+    border: none;
+    padding: 7px 45px;
+}
+
+td {
+    border: 1px solid;
+    padding: 15px 80px;
+}
+
+.tabela-section {
+    padding: 2rem;
+    background-color: #ffeece;
+}
+
+.tabela-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tabela-texts {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0  1rem;
+}
+
+
+.tabela-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align:center;
+}
+
+.tabela-footer th{
+    padding: 1rem 0;
+}
+

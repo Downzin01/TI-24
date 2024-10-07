@@ -15,10 +15,10 @@
 
                     <nav class="home-menu">
                         <ul>
-                            <li><a href="#">HOME</a></li>
-                            <li><a href="#">SERVIÇOS</a></li>
-                            <li><a href="#">GALERIA</a></li>
-                            <li><a href="#">CONTATO</a></li>
+                            <li><a href="#home">HOME</a></li>
+                            <li><a href="#passeio">SERVIÇOS</a></li>
+                            <li><a href="#tabela">GALERIA</a></li>
+                            <li><a href="#footer">CONTATO</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -32,7 +32,7 @@
             </section>
         </header>
         <main>
-            <section class="passeio-section">
+            <section class="passeio-section" id="passeio">
                 <div class="passeio-texts">
                     <h1>Passeio</h1>
                     <a href="#">Ínicio da página</a>
@@ -52,7 +52,45 @@
                     </figure>
                 </div>
             </section>
+            <section class="tabela-section" id="tabela">
+                <div class="tabela-texts">
+                    <h1>Valores</h1>
+                    <a href="#">Ínicio da página</a>
+                </div>
+                <div class="tabela-container">
+                    <table class="tabela-table">
+                        <thead class="tabela-head">
+                            <tr>
+                                <th>Passeios</th>
+                                <th>Valores</th>
+                            </tr>
+                        </thead>
+                        <tbody class="tabela-body">
+                            <tr>
+                                <td>Canoagem</td>
+                                <td>R$ 60,00</td>
+                            </tr>
+                            <tr>
+                                <td>Passeio Radical</td>
+                                <td>R$ 80,00</td>
+                            </tr>
+                            <tr>
+                                <td>Trilha</td>
+                                <td>R$ 90,00</td>
+                            </tr>
+                        </tbody>
+                        <tfoot class="tabela-footer">
+                            <th colspan="2">Consulte na recepção os valores atualizados</th>
+                        </tfoot>
+                    </table>
+                </div>
+            </section>
         </main>
-        <footer></footer>
+        <footer id="footer">
+            <div class="footer-container">
+                <img src="./assets/img/icone.png"/> 
+                <span>Contato (19) 9921214943</span>
+            </div>
+        </footer>
     </body>
 </html>
