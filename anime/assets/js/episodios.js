@@ -5,10 +5,10 @@ export function carregarEpisodios() {
     const episodiosLista = document.getElementById('episodios-lista');
 
     fetch('./assets/json/episodios.json')
-        .then(response => response.json())
-        .then(episodios => {
+        .then((response) => response.json())
+        .then((episodios) => {
             episodiosLista.innerHTML = ''; // Limpa a lista atual, se houver
-            episodios.forEach(episodio => {
+            episodios.forEach((episodio) => {
                 const li = document.createElement('li');
                 li.classList.add('episodio_item');
                 li.dataset.episodio = episodio.numero;
@@ -21,5 +21,5 @@ export function carregarEpisodios() {
                 episodiosLista.appendChild(li);
             });
         })
-        .catch(error => console.error('Erro ao carregar os episódios:', error));
+        .catch((error) => console.error('Erro ao carregar os episódios:', error));
 }

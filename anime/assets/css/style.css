@@ -5,11 +5,11 @@
 @import url('./personagens.css');
 
 :root {
-    --scrollbar-bg: #FFE1FB;
+    --scrollbar-bg: #ffe1fb;
     --scrollbar-thumb: rgba(255, 105, 180, 0.7);
     --scrollbar-thumb-hover: rgba(255, 105, 180, 1);
-    --body-bg: #FFE1FB;
-    --body-color: #2E2E2E;
+    --body-bg: #ffe1fb;
+    --body-color: #2e2e2e;
 }
 
 * {
@@ -51,4 +51,3 @@ h2 {
     font-size: 3rem;
     margin-bottom: 20px;
 }
-

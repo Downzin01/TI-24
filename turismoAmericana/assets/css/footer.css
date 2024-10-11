@@ -1,0 +1,26 @@
+#footer {
+    height: 282px;
+    background: url('../img/rodape.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.footer {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer h2 {
+    font-family: "Alfa Slab One", serif;
+    font-size: 40px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.footer-socials a img {
+    width: 80px;
+    margin: 2rem;
+}

@@ -1,0 +1,34 @@
+@import url('./home.css');
+@import url('./pontoTuristico.css');
+@import url('./parceiros.css');
+@import url('./footer.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Alice&family=Passero+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Passero One", sans-serif;
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.tituloPrincipal {
+    text-shadow: 2px 2px 0 #B6B4F4, 
+    -2px -2px 0 #B6B4F4,
+    2px -2px 0 #B6B4F4,
+    -2px 2px 0 #B6B4F4;
+    text-align: center;
+    font-family: "Passero One", sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    padding: 1rem;
+}
+

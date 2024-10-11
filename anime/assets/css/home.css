@@ -61,9 +61,8 @@
 }
 
 .home-menu ul li a:hover {
-    color: #FFB6C1; 
+    color: #ffb6c1;
 }
-
 
 @media (max-width: 1180px) {
     .parabola {

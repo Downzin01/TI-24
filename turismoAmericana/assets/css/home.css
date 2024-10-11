@@ -1,0 +1,36 @@
+#home {
+    height: 506px;
+    background: linear-gradient(rgba(17, 17, 15, 0.404), rgba(34, 30, 4, 0.685)),
+        url('../img/banner.jfif');
+    background-size: cover;
+    background-position: center;
+}
+
+.home-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5rem;
+}
+
+.home-logo {
+    width: 168px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.home-nav ul li {
+    display: inline-block;
+}
+
+.home-nav ul li a {
+    font-size: 32px;
+    color: #000;
+    font-weight: 600;
+    padding: 10px;
+    transition: 0.6s ease;
+}
+
+.home-nav ul li a:hover {
+    color: #fff;
+}

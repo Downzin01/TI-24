@@ -9,7 +9,6 @@ window.onload = async () => {
     personagensModule.inicializarListaPersonagens();
 };
 
-
 window.addEventListener('scroll', function () {
     const homeSection = document.getElementById('home-section');
     const scrollY = window.scrollY;

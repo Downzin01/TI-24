@@ -1,0 +1,36 @@
+
+.pontoTuristico {
+    flex-direction: column;
+    padding: 2rem;
+    background: #EFECEC;
+}
+
+.pontoTuristico-titulo {
+    font-size: 48px;
+}
+
+.pontoTuristico-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pontoTuristico-card {
+    display: inline-block;
+    flex-direction: column;
+    padding: 3rem;
+}
+
+.pontoTuristico-card img {
+    width: 367px;
+    height: 464px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px;
+}
+
+.pontoTuristico-card figcaption {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 1rem;
+}

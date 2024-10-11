@@ -8,7 +8,7 @@ export async function loadNavLinks() {
         navLinksContainer.innerHTML = '';
 
         // Criar os links dinamicamente
-        data.links.forEach(link => {
+        data.links.forEach((link) => {
             const listItem = document.createElement('li');
             const anchor = document.createElement('a');
             anchor.href = link.href;
