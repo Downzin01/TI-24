@@ -1,8 +1,7 @@
-
 .pontoTuristico {
     flex-direction: column;
     padding: 2rem;
-    background: #EFECEC;
+    background: #efecec;
 }
 
 .pontoTuristico-titulo {

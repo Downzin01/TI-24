@@ -8,7 +8,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Passero One", sans-serif;
+    font-family: 'Passero One', sans-serif;
     scroll-behavior: smooth;
 }
 
@@ -21,14 +21,14 @@ a {
 }
 
 .tituloPrincipal {
-    text-shadow: 2px 2px 0 #B6B4F4, 
-    -2px -2px 0 #B6B4F4,
-    2px -2px 0 #B6B4F4,
-    -2px 2px 0 #B6B4F4;
+    text-shadow:
+        2px 2px 0 #b6b4f4,
+        -2px -2px 0 #b6b4f4,
+        2px -2px 0 #b6b4f4,
+        -2px 2px 0 #b6b4f4;
     text-align: center;
-    font-family: "Passero One", sans-serif;
+    font-family: 'Passero One', sans-serif;
     font-size: 48px;
     font-weight: 600;
     padding: 1rem;
 }
-

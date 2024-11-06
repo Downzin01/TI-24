@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #00C2FF21;
+    background: #00c2ff21;
     border-radius: 20px;
 }
 
@@ -29,12 +29,11 @@
     border-radius: 20px;
     object-fit: cover;
     object-position: center;
-    box-shadow: 4px 4px 4px rgba(0,0,0,0.3);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
 }
 
 .parceiros-texts {
     margin: 0 2rem;
-    
 }
 
 .parceiros-texts h3 {
@@ -45,7 +44,7 @@
 .parceiros-texts p {
     font-size: 20px;
     text-align: justify;
-    font-family: "Alice", serif;
+    font-family: 'Alice', serif;
     font-weight: 400;
     margin-top: 1rem;
 }
