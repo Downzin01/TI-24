@@ -1,0 +1,7 @@
+C:\Users\Downzin Dev\source\repos\CSharp\Exercitando\obj\Debug\Exercitando.csproj.AssemblyReference.cache
+C:\Users\Downzin Dev\source\repos\CSharp\Exercitando\obj\Debug\Exercitando.csproj.CoreCompileInputs.cache
+C:\Users\Downzin Dev\source\repos\CSharp\Exercitando\bin\Debug\Exercitando.exe.config
+C:\Users\Downzin Dev\source\repos\CSharp\Exercitando\bin\Debug\Exercitando.exe
+C:\Users\Downzin Dev\source\repos\CSharp\Exercitando\bin\Debug\Exercitando.pdb
+C:\Users\Downzin Dev\source\repos\CSharp\Exercitando\obj\Debug\Exercitando.exe
+C:\Users\Downzin Dev\source\repos\CSharp\Exercitando\obj\Debug\Exercitando.pdb

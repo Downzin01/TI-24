@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\functions\\atividades\\exercicio04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\functions\\atividades\\exercicio04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\functions\\utilidades\\cabecalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\functions\\utilidades\\cabecalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\functions\\atividades\\exercicio03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\functions\\atividades\\exercicio03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\functions\\atividades\\exercicio02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\functions\\atividades\\exercicio02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\functions\\atividades\\exercicio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\functions\\atividades\\exercicio01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\functions\\utilidades\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\functions\\utilidades\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\functions\\atividades\\exercicio05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\functions\\atividades\\exercicio05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\exercitando\\functions\\atividades\\exercicio06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48477257-9FD1-41A1-A234-1D0264458E03}|Exercitando\\Exercitando.csproj|solutionrelative:exercitando\\functions\\atividades\\exercicio06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4CF9EF-5DEF-4646-BF11-2DFFD49B3700}|RoupaBox\\RoupaBox.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\roupabox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4CF9EF-5DEF-4646-BF11-2DFFD49B3700}|RoupaBox\\RoupaBox.csproj|solutionrelative:roupabox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4CF9EF-5DEF-4646-BF11-2DFFD49B3700}|RoupaBox\\RoupaBox.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\roupabox\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C4CF9EF-5DEF-4646-BF11-2DFFD49B3700}|RoupaBox\\RoupaBox.csproj|solutionrelative:roupabox\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4CF9EF-5DEF-4646-BF11-2DFFD49B3700}|RoupaBox\\RoupaBox.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\roupabox\\functions\\utilidades\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4CF9EF-5DEF-4646-BF11-2DFFD49B3700}|RoupaBox\\RoupaBox.csproj|solutionrelative:roupabox\\functions\\utilidades\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4CF9EF-5DEF-4646-BF11-2DFFD49B3700}|RoupaBox\\RoupaBox.csproj|c:\\users\\downzin dev\\source\\repos\\csharp\\roupabox\\functions\\utilidades\\cabecalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4CF9EF-5DEF-4646-BF11-2DFFD49B3700}|RoupaBox\\RoupaBox.csproj|solutionrelative:roupabox\\functions\\utilidades\\cabecalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cabecalho.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Utilidades\\Cabecalho.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Functions\\Utilidades\\Cabecalho.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Utilidades\\Cabecalho.cs",
+              "RelativeToolTip": "Exercitando\\Functions\\Utilidades\\Cabecalho.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:37:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Utilidades\\Menus.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Functions\\Utilidades\\Menus.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Utilidades\\Menus.cs",
+              "RelativeToolTip": "Exercitando\\Functions\\Utilidades\\Menus.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:35:38.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio01.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio01.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Functions\\Atividades\\Exercicio01.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio01.cs",
+              "RelativeToolTip": "Exercitando\\Functions\\Atividades\\Exercicio01.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:36:06.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio02.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio02.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Functions\\Atividades\\Exercicio02.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio02.cs",
+              "RelativeToolTip": "Exercitando\\Functions\\Atividades\\Exercicio02.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:36:11.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio03.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio03.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Functions\\Atividades\\Exercicio03.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio03.cs",
+              "RelativeToolTip": "Exercitando\\Functions\\Atividades\\Exercicio03.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:36:15.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio04.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio04.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Functions\\Atividades\\Exercicio04.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio04.cs",
+              "RelativeToolTip": "Exercitando\\Functions\\Atividades\\Exercicio04.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:35:57.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Program.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Program.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Program.cs",
+              "RelativeToolTip": "Exercitando\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:48:46.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exercicio05.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio05.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Functions\\Atividades\\Exercicio05.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio05.cs",
+              "RelativeToolTip": "Exercitando\\Functions\\Atividades\\Exercicio05.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:35:50.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exercicio06.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio06.cs",
+              "RelativeDocumentMoniker": "Exercitando\\Functions\\Atividades\\Exercicio06.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\Exercitando\\Functions\\Atividades\\Exercicio06.cs",
+              "RelativeToolTip": "Exercitando\\Functions\\Atividades\\Exercicio06.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:35:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\RoupaBox\\Program.cs",
+              "RelativeDocumentMoniker": "RoupaBox\\Program.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\RoupaBox\\Program.cs",
+              "RelativeToolTip": "RoupaBox\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:45:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\RoupaBox\\App.config",
+              "RelativeDocumentMoniker": "RoupaBox\\App.config",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\RoupaBox\\App.config",
+              "RelativeToolTip": "RoupaBox\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-18T03:46:27.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\RoupaBox\\Functions\\Utilidades\\Menu.cs",
+              "RelativeDocumentMoniker": "RoupaBox\\Functions\\Utilidades\\Menu.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\RoupaBox\\Functions\\Utilidades\\Menu.cs",
+              "RelativeToolTip": "RoupaBox\\Functions\\Utilidades\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:46:38.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cabecalho.cs",
+              "DocumentMoniker": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\RoupaBox\\Functions\\Utilidades\\Cabecalho.cs",
+              "RelativeDocumentMoniker": "RoupaBox\\Functions\\Utilidades\\Cabecalho.cs",
+              "ToolTip": "C:\\Users\\Downzin Dev\\source\\repos\\CSharp\\RoupaBox\\Functions\\Utilidades\\Cabecalho.cs",
+              "RelativeToolTip": "RoupaBox\\Functions\\Utilidades\\Cabecalho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:46:23.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
